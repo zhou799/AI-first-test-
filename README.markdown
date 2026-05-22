@@ -2,7 +2,7 @@
 
 > 上传食材图片，获取个性化食谱推荐
 
-![AI 私厨管家](static/preview.png)
+![AI 私厨管家](app/static/preview.png)
 
 ##  功能特性
 
